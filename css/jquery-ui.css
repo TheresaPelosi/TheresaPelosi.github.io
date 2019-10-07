@@ -334,12 +334,12 @@ button.ui-button::-moz-focus-inner {
 	border: 1px solid #79b7e7;
 	background: #f5f8f9 url("images/ui-bg_inset-hard_100_f5f8f9_1x100.png") 50% 50% repeat-x;
 	font-weight: bold;
-	color: #5199c2;
+	color: #e17009;
 }
 .ui-state-active a,
 .ui-state-active a:link,
 .ui-state-active a:visited {
-	color: #5199c2;
+	color: #e17009;
 	text-decoration: none;
 }
 
@@ -360,19 +360,19 @@ button.ui-button::-moz-focus-inner {
 .ui-state-error,
 .ui-widget-content .ui-state-error,
 .ui-widget-header .ui-state-error {
-	border: 1px solid #5199c2;
+	border: 1px solid #cd0a0a;
 	background: #fef1ec url("images/ui-bg_glass_95_fef1ec_1x400.png") 50% 50% repeat-x;
-	color: #5199c2;
+	color: #cd0a0a;
 }
 .ui-state-error a,
 .ui-widget-content .ui-state-error a,
 .ui-widget-header .ui-state-error a {
-	color: #5199c2;
+	color: #cd0a0a;
 }
 .ui-state-error-text,
 .ui-widget-content .ui-state-error-text,
 .ui-widget-header .ui-state-error-text {
-	color: #5199c2;
+	color: #cd0a0a;
 }
 .ui-priority-primary,
 .ui-widget-content .ui-priority-primary,
