@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f94a0c31-fb12-44a4-8de9-07a249dab838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TheresaPelosi.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/jquery-ui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mediaelementplayer.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mediaelementplayer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="f94a0c31-fb12-44a4-8de9-07a249dab838" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +12,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="9890fc24-5bbe-4ca2-8d44-97c0f73f5e50" />
+    <option name="defaultAccountId" value="709cb81a-ad2f-43d9-aebd-83285a7ef865" />
   </component>
   <component name="ProjectId" id="1Rt4goKplRPtsf0H2nqV9a4U76S" />
   <component name="PropertiesComponent">
@@ -56,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570473171098</updated>
       <workItem from="1570473172337" duration="1151000" />
+      <workItem from="1570480704495" duration="299000" />
     </task>
     <servers />
   </component>
@@ -67,7 +56,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
