@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eab82564-2c5e-49ae-9df6-7b718ecf8446" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/send_form_email.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570729236018</updated>
-      <workItem from="1570729240212" duration="6370000" />
+      <workItem from="1570729240212" duration="6625000" />
     </task>
     <task id="LOCAL-00001" summary="footer">
       <created>1571499163706</created>
@@ -72,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571590876630</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="email">
+      <created>1571591231201</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571591231201</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
