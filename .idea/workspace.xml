@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab82564-2c5e-49ae-9df6-7b718ecf8446" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/TheresaPelosi.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ChessSet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570729236018</updated>
-      <workItem from="1570729240212" duration="7738000" />
+      <workItem from="1570729240212" duration="8402000" />
     </task>
     <task id="LOCAL-00001" summary="footer">
       <created>1571499163706</created>
@@ -100,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571592215910</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="images">
+      <created>1571592605288</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571592605288</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +135,7 @@
     <MESSAGE value="bugs" />
     <MESSAGE value="email" />
     <MESSAGE value="newsletter" />
-    <option name="LAST_COMMIT_MESSAGE" value="newsletter" />
+    <MESSAGE value="images" />
+    <option name="LAST_COMMIT_MESSAGE" value="images" />
   </component>
 </project>
